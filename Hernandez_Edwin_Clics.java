@@ -50,13 +50,13 @@ public class Hernandez_Edwin_Clics {
 
         System.out.print("Ingrese la segunda cantidad de clics: ");
         clics2 = scan.nextInt();
-        System.out.print("Ingrese el precio de la primera cantidad de clics: $");
+        System.out.print("Ingrese el precio de la segunda cantidad de clics: $");
         precioClics2 = scan.nextDouble();
         System.out.println("");
 
         System.out.print("Ingrese la tercera cantidad de clics: ");
         clics3 = scan.nextInt();
-        System.out.print("Ingrese el precio de la primera cantidad de clics: $");
+        System.out.print("Ingrese el precio de la tercera cantidad de clics: $");
         precioClics3 = scan.nextDouble();
         System.out.println("");
 
